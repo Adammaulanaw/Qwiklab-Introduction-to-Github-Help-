@@ -1,2 +1,1 @@
-# Qwiklab-Introduction-to-Github-Help-
-For graded assesment ; Qwiklabs Assessment: Introduction to Github
+I am editing the README file. Adding some more details about the project description.
